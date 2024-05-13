@@ -1,3 +1,12 @@
+/* 
+
+(não foi utilizado arquivo bin)
+Exercídio de Extensão II - 
+Feito por:
+  - Giovanna Leal
+  - Caio Vitor
+  */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
