@@ -1,3 +1,16 @@
+/*
+PARTICIPANTES:
+
+Giovanna leal de Araujo- 1230204311
+Daniela Moreira Negreiros Dias-1230203973
+Nathaly Peixoto - 1230204410
+Caio Vitor de Andrade Freitas - 1230209698
+Felipe Bermudes de Oliveira Leite RA- 1230204453
+
+Login: Algoritmos 
+Senha: 1234
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
