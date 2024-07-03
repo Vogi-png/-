@@ -1,11 +1,11 @@
 /*
 PARTICIPANTES:
 
-Giovanna leal de Araujo- 1230204311
-Daniela Moreira Negreiros Dias-1230203973
-Nathaly Peixoto - 1230204410
-Caio Vitor de Andrade Freitas - 1230209698
-Felipe Bermudes de Oliveira Leite RA- 1230204453
+Giovanna leal de Araujo
+Daniela Moreira Negreiros Dias
+Nathaly Peixoto
+Caio Vitor de Andrade Freitas 
+Felipe Bermudes de Oliveira Leite
 
 Login: Algoritmos 
 Senha: 1234
